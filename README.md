@@ -10,3 +10,12 @@ I used TMDb movie Dataset that contains about 10,000 movies collected from TMDb.
 2. Data Wrangling: Remove unnessary information such as empty and duplicate values. The whole dataframe was also fixed in order to summarize results.
 3. Exploratory Data analysis: Study the statistics and build visualization to analyze relationships between each others.
 4. Communicate the results: Use the above fundings to answer questions, then make conclusion.
+
+**Questions for Analysis:**
+1. What are the number of movies released each year?
+
+2. Waht is the relationship between movie budget and revenue?
+
+3. What is the most profitable movie?
+
+4. What is the least profitable movie?
